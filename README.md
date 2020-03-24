@@ -20,3 +20,14 @@ dev-description-of-feature
 1. Make a new branch
 2. Code and git add and git commit
 3. Push branch to origin
+
+# Useful git commands
+
+create branches:
+- `git checkout -b <branch>`
+
+move branches:
+- `git checkout <branch>`
+
+
+- `git branch`
